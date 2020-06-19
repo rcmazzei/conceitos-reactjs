@@ -33,6 +33,11 @@ button {
   font-size: 14px;
 }
 
+input {
+  padding: 10px 15px;
+  text-align: center;
+}
+
 div li button {
   margin: 0 15px;
   background: #ca4949;
